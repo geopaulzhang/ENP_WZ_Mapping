@@ -8,6 +8,9 @@ The land-cover classification layers are published on Environmental Data Initiat
 
 Citation: Zhang, B. and S. Malone. 2026. Southeastern Saline Everglades annual land-cover classification layers from 1984 to 2024 ver 2. Environmental Data Initiative. https://doi.org/10.6073/pasta/1d205a9a0f21ac4e0954e71c36fc0ee4.
 
+Zenodo:
+https://doi.org/10.5281/zenodo.24514314
+
 # Part 1 Remote Sensing 
 Approximately 1,500 point samples were manually labeled for eight representative years across the 41-year study period (approximately 6-year intervals) using high-resolution Google Earth basemap imagery. We developed a machine learning (ML)-based classification framework that integrates spatial and temporal transfer learning techniques to reconstruct land-cover dynamics over the entire 41-year period. The resulting time-series land-cover maps provide the foundation for subsequent spatial modeling (Part 2), which aims to quantify the expansion of degradation zones and track mangrove transgression in response to long-term environmental changes.  
   

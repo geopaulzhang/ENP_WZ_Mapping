@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository."
+title: "ENP White Zone Mapping"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Boya
+  - family-names: Malone
+    given-names: Sparkle
+repository-code: "https://github.com/geopaulzhang/ENP_WZ_Mapping"
+version: "1.0.0"
